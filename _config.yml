@@ -1,0 +1,7 @@
+title: AdShield
+description: AdShield, an on-device ad and tracker blocker for Android
+url: https://adshieldapp.github.io
+baseurl: ""
+markdown: kramdown
+exclude:
+  - README.md
